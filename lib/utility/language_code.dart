@@ -1,0 +1,19 @@
+enum LanguageCode {
+  ar, // Arabic
+  de, // German
+  en, // English
+  es, // Spanish
+  fa, // Persian
+  fr, // French
+  hi, // Hindi
+  id, // Indonesian
+  it, // Italian
+  ja, // Japanese
+  ko, // Korean
+  my, // Malay
+  pt, // Portuguese
+  ru, // Russian
+  th, // Thai
+  tr, // Turkish
+  zh, // Chinese
+}
