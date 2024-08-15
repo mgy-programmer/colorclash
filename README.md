@@ -23,9 +23,6 @@ Welcome to **Color Clash** – Embark on a vibrant journey of competition where 
    ```bash
    cd colorclash
 
-## License
-ColorClash is licensed under the MIT License.
-
 Contact
 For any questions or feedback, feel free to reach out to us at contact@ayotechcorp.com
 
