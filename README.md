@@ -2,6 +2,9 @@
 
 Welcome to **Color Clash** – Embark on a vibrant journey of competition where victory hinges on your ability to click faster and expand your color space! Set the rhythm with music of your choosing and infuse your gameplay with a burst of personality by customizing avatars and colors. The quest for triumph intensifies as you strive to outpace opponents in a high-speed clicking frenzy. Feel the adrenaline whether challenging the computer solo or engaging in thrilling face-offs against friends. This game is not just about speed; it's a personalized and electrifying adventure where every click propels you closer to the sweet taste of victory.
 
+You can download the application from this link;
+https://play.google.com/store/apps/details?id=com.colorclash.colorclash
+
 <div style="display: flex; justify-content: space-around;">
    <img src="assets/screenshot_1.png" alt="Game Screenshot" width="250" height="500">
    <img src="assets/screenshot_2.png" alt="Game Screenshot" width="250" height="500">
